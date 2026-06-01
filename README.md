@@ -29,9 +29,9 @@ Visualization and Analysis
 
 ## PROGRAM
 
-### Name: Krishna Prasad S
+### Name: Pradeep Kumar G
 
-### Register Number: 212223230108
+### Register Number: 212223230150
 
 ```python
 # Autoencoder Definition
@@ -66,8 +66,8 @@ optimizer = optim.Adam(model.parameters(), lr = 1e-3)
 # Training function
 def train(model, loader, criterion, optimizer, epochs=5):
     model.train()
-    print('Name: Krishna Prasad S')
-    print('Register Number: 212223230108')
+    print('Name: Pradeep Kumar G')
+    print('Register Number: 212223230150')
 
     for epoch in range(epochs):
         running_loss = 0.0
